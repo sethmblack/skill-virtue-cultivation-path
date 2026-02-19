@@ -3,8 +3,9 @@ name: virtue-cultivation-path
 description: A framework for lifelong personal development based on Confucius's teaching of staged moral and intellectual growth. Becoming an exemplary person (junzi) is not achieved suddenly but cultivated ste...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5275
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - virtue-cultivation-path
 - writing
